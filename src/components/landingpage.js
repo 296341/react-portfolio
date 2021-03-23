@@ -14,11 +14,11 @@ class  Landing extends Component {
               className="avatar-img"
             />
             <div className="banner-text">
-              <h1>Full stack web develloper</h1>
+              <h1>Full stack develloper</h1>
 
               <hr />
 
-              <p>HTML/CSS/PHP | JavaScript | ReactJS | Python | MySQL | Sring  </p>
+              <p>HTML/CSS/PHP | JavaScript | ReactJS | Python | MySQL | Sring boot  </p>
 
               <div className="social-links">
               {/*linkedin*/}

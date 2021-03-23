@@ -15,10 +15,8 @@ class Contact extends Component {
             />
 
             <p style={{width:'75%', margin:'auto', paddingTop:'1em'}}>
-            i am Antoine NOGOUP currently a student a Supinfo
-            internantional univercity ksodfqin qdonfiqpkdf dfoqnsdfi sdfoqnid
-            sdfnqodifn qdqdonfqoef qdsfoniqefq
-            nsqomdifjqiosf nqsdofined skjdfkifsdnfio qkdsnfoqsndf
+            i am Antoine NOGOUP lopason currently a Young graduate in computer science with a passion for new
+              technologies. I am currently looking for a CDI in Fullstack development / software engineer.
             </p>
           </Cell>
           <Cell col={6}>
